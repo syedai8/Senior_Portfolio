@@ -16,7 +16,7 @@ body {
 /* ========== Navbar & Hero Section ========== */
 .hero {
     height: 100vh;
-    background: linear-gradient(to right, #2b5876, #4e4376);
+    background: linear-gradient(to right, #BDA29E, #463230);
     color: white;
     display: flex;
     flex-direction: column;
@@ -31,7 +31,7 @@ body {
     font-weight: bold;
 }
 .logo span {
-    color: #ffcb05;
+    color: #65C7AF;
 }
 
 nav {
