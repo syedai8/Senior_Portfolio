@@ -1,0 +1,68 @@
+/*Projects Page */
+/* light green: #D9EAD3 (bg color)*/
+/* slightly darker green: #C8E1B8 */
+/* dark green: #B6D7A8 */
+/* darker green: #A7C498 */
+/* darkest green: #1f3d2b (text color)*/
+
+.projects-navbar {
+    text-align: center;
+    background-color:#C8E1B8;
+    padding: 15px 0;
+}
+
+.projects-navbar a {
+    text-decoration: none;
+    color: #1f3d2b;
+    font-size: 18px;
+    margin: 0 25px;
+    padding: 10px 20px;
+}
+
+.projects-navbar a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.projects {
+    padding: 60px;
+    min-height: 100vh;
+}
+
+.projects-content {
+    margin-bottom: 40px;
+}
+
+.project-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #1f3d2b;
+}
+
+.project-section p {
+    font-size: 17px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    color: #1f3d2b;
+}
+
+.project-media {
+    margin-top: 40px;
+}
+
+.cac-video {
+    width: 100%;
+    max-width: 750px;
+    height: 420px;
+    background-color: #C8E1B8;
+}
+
+#cac, #pet, #project3, #project4, #project5 {
+    scroll-margin-top: 60px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+}
