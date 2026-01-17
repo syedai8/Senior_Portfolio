@@ -1,0 +1,35 @@
+/* light green: #D9EAD3 */
+/* slightly darker green: #C8E1B8*/
+/* dark green: #B6D7A8 */
+/* darker green: #A7C498 */
+/* darkest green: #1f3d2b (text color)*/
+
+.notebook {
+    padding: 60px;
+    text-align: center;
+}
+
+.nb-title {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.nb-description {
+    font-size: 18px;
+    margin-bottom: 40px;
+    line-height: 1.6;
+}
+
+.slides-container {
+    display: flex;
+    justify-content: center;
+}
+
+.slides {
+    width: 900px;
+    height: 500px;
+    background-color: #C8E1B8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
